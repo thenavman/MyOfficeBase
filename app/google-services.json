@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112837272509",
+    "firebase_url": "https://myfirebase-83b62.firebaseio.com",
+    "project_id": "myfirebase-83b62",
+    "storage_bucket": "myfirebase-83b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112837272509:android:999d88b7daf32fcb",
+        "android_client_info": {
+          "package_name": "com.example.myofficebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112837272509-6e1bglkdhg2sfncqe8hr3luj3u0ni6ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHupuZ44Qw4j-x2jgbw6A2XndiwxheDeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112837272509-6e1bglkdhg2sfncqe8hr3luj3u0ni6ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
